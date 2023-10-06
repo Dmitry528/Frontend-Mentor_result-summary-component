@@ -1,0 +1,12 @@
+/* Normalizes css styles for different browsers */
+@import url(normalize.css);
+/* Variables */
+@import url(variables.css);
+/* Fonts */
+@import url(fonts.css);
+/* Global styles */
+@import url(global.css);
+/* File with main styles */
+@import url(styles.css);
+/* File which describes UI on mobile device */
+@import url(media.css);
