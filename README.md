@@ -10,8 +10,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Links
 
-- Solution URL: [click]()
-- Live Site URL: [click]()
+- Solution URL: [click](https://www.frontendmentor.io/solutions/result-summary-component-solution-html-css-9zzL6EClzx)
+- Live Site URL: [click](https://dmitry528.github.io/Frontend-Mentor_result-summary-component/)
 
 ## Built with
 
@@ -21,5 +21,5 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Author
 
-- Frontend Mentor - [@Dmitry528]()
+- Frontend Mentor - [@Dmitry528](https://www.frontendmentor.io/profile/Dmitry528)
 - Linkedin - [Dmytro_Chekurkov](https://www.linkedin.com/in/dmytro-chekurkov-44ba82183/)
