@@ -1,6 +1,12 @@
 :root {
+  /* Primary light colors */
+  --primary-light-red: hsl(0, 100%, 67%, 0.05);
+  --primary-light-orangey-yellow: hsl(39, 100%, 56%, 0.05);
+  --primary-light-green-teal: hsl(166, 100%, 37%, 0.05);
+  --primary-light-cobalt-blue: hsl(234, 85%, 45%, 0.05);
+
   /* Primary colors */
-  --primary-light-red: hsl(0, 100%, 67%);
+  --primary-red: hsl(0, 100%, 67%);
   --primary-orangey-yellow: hsl(39, 100%, 56%);
   --primary-green-teal: hsl(166, 100%, 37%);
   --primary-cobalt-blue: hsl(234, 85%, 45%);

@@ -1,0 +1,14 @@
+@media screen and (max-width: 600px) {
+  .summary {
+    flex-direction: column;
+  }
+
+  .score, .outcomes {
+    padding: 24px;
+  }
+
+  .score {
+    border-top-right-radius: initial;
+    border-top-left-radius: initial;
+  }
+}
